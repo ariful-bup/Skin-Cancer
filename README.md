@@ -1,2 +1,4 @@
 # Skin-Cancer
-Skin Cancer Detection
+Skin cancer remains a critical global health concern, necessitating efficient and accurate diagnostic methods. Early diagnosis and proper identification could greatly increase skin cancer patients' survival and cure rates. This study explores the potential of advanced transfer learning models for detecting and classifying skin cancer. Each model leverages pre-trained weights, allowing fine-tuning to optimize the skin lesion dataset’s performance. An ensemble approach integrates the strengths of these models, enhancing classification accuracy and robustness. The proposed methodology achieves 94% accuracy, demonstrating its effectiveness in distinguishing malignant and benign skin lesions. By combining state-of-the- art transfer learning architectures with ensemble learning, this study provides a reliable diagnostic tool, reducing reliance on traditional biopsy procedures. The results highlight the promise of artificial intelligence in dermatological applications, paving the way for improved early detection and treatment strategies.
+
+More Detail_ https://ieeexplore.ieee.org/abstract/document/10936793
